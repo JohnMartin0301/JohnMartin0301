@@ -51,6 +51,6 @@ I am a Computer Engineering graduate who is passionate about solving real-world 
 ---
 [![](https://visitcount.itsvg.in/api?id=JohnMartin0301&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://raw.githubusercontent.com/JohnMartin0301/JohnMartin0301/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/JohnMartin0301/JohnMartin0301/output/snake.svg" alt="Snake animation" />
 
-
+###
