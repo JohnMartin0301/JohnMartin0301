@@ -3,16 +3,12 @@ I am a Computer Engineering graduate who is passionate about solving real-world 
 
 
 ## 🌐 Social/s:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-carlo-martin-53189536b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:john.martin00316@gmail.com)
-
 <div align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
          width="52" height="40" alt="linkedin logo" />
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:john.martin00316@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
          width="52" height="40" alt="gmail logo" />
@@ -54,3 +50,5 @@ I am a Computer Engineering graduate who is passionate about solving real-world 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JohnMartin0301&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/JohnMartin0301/JohnMartin0301/output/snake.svg" alt="Snake animation" />
