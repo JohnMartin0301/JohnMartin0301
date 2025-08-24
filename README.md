@@ -13,7 +13,4 @@ I am a Computer Engineering graduate who is passionate about solving real-world 
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?JohnMartin=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-[![](https://visitcount.itsvg.in/api?id=JohnMartin0301&icon=0&color=0)](https://visitcount.itsvg.in)
+[![trophy](https://github-profile-trophy.vercel.app/?JohnMartin0301=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
