@@ -42,4 +42,10 @@ I am a Computer Engineering graduate who is passionate about solving real-world 
 # 📊 GitHub Stats:
 <img src="https://github.com/user-attachments/assets/8780f11d-f46d-4cf9-bd24-6ec88485967e" alt="programming" width="270"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="371"/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JohnMartin0301&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JohnMartin0301&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img src="https://raw.githubusercontent.com/JohnMartin0301/JohnMartin0301/output/snake.svg" alt="Snake animation" />
