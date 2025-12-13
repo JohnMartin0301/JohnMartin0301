@@ -2,7 +2,7 @@
 I'm a Computer Engineering graduate who's passionate about solving real-world problems through code and building efficient systems. I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as an engineer.
 
 
-## 🌐 Social/s:
+## 🌐 My Social/s:
 <div align="left">
   <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
