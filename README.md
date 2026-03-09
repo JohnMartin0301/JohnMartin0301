@@ -1,5 +1,5 @@
 # 👤 About Me:
-I'm a Computer Engineering graduate and currently an Associate Software Engineer at Accenture specializing in Application & Cloud Support within Infrastructure Engineering.
+I'm a Computer Engineering graduate and currently an Associate Software Engineer specializing in Application & Cloud Support within Infrastructure Engineering.
 
 I’m passionate about solving real-world problems through code and building efficient systems whether in software development or automation using IoT technologies like Arduino and ESP32.
 
