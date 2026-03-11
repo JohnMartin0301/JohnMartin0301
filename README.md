@@ -19,11 +19,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/JohnMartin0301">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohnMartin0301&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="JohnMartin0301's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Martin's GitHub Trophies" />
 </p>
 
@@ -57,8 +52,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
