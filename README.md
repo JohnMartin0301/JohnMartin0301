@@ -33,6 +33,9 @@
 > ## Tools
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="48" height="48" style="margin: 4px;" /> </p> 
 
+> ## Other
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" style="margin: 4px;" /> </p>
+
 <p align="center">
   <a href="https://github.com/JohnMartin0301">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnMartin0301&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
