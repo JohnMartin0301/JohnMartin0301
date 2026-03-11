@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">I'm John Martin</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm John Martin</h1>
 <h3 align="center">Associate Software Engineer</h3>
 
 <p align="center">
@@ -6,8 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=JohnMartin0301&label=Profile%20views&color=00FFFF&style=flat-square" alt="JohnMartin0301's profile views" />
   </a>
 </p>
-
-<img src="https://github.com/user-attachments/assets/8780f11d-f46d-4cf9-bd24-6ec88485967e" alt="programming" width="270" align="center"" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a Computer Engineering graduate and currently an Associate Software Engineer specializing in Application & Cloud Support within Infrastructure Engineering.
