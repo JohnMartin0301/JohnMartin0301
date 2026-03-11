@@ -13,7 +13,7 @@
 - I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as an engineer.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Martin's GitHub Trophies" />
 </p>
@@ -30,12 +30,9 @@
 > ## Libraries & Frameworks
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"" alt="flask" width="48" height="48" style="margin: 4px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="flask" width="48" height="48" style="margin: 4px;" /> </p>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="48" height="48" style="margin: 4px;" /> </p>
-
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="48" height="48" style="margin: 4px;" /> <p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="48" height="48" style="margin: 4px;" /> </p> </p> 
 
 <p align="center">
   <a href="https://github.com/JohnMartin0301">
