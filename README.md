@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Martin</h1><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">I'm John Martin</h1>
 <h3 align="center">Associate Software Engineer</h3>
 
 <p align="center">
