@@ -13,17 +13,13 @@
 - I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as an engineer.
 
 
-## 🧠 My Focus Areas
-- Application & Cloud Support - Infrastructure Engineering
-
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Martin's GitHub Trophies" />
 </p>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ My Tech Stack
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
