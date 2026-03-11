@@ -31,6 +31,9 @@
 > ## Frontend
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
 
+> ## Libraries & Frameworks
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original-wordmark.svg" alt="chartjs" width="48" height="48" style="margin: 4px;" /> </p>
+
 > ## DevOps & Cloud
 <p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
