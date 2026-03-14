@@ -10,7 +10,7 @@
 ## 📌 About Me
 - I'm a Computer Engineering graduate and currently an Associate Software Engineer specializing in Application & Cloud Support within Infrastructure Engineering.
 - I’m passionate about solving real-world problems through code and building efficient systems whether in software development or automation using IoT technologies like Arduino and ESP32.
-- I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as an engineer.
+- I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as a software engineer.
 
 
 ## 📊 GitHub Trophies
