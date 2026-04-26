@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Martin's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
 </p>
 
 
