@@ -55,33 +55,25 @@
 > ## Embedded & IoT
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" style="margin: 4px;" /> </p>
 
+## 📩 Connect with me
 <p align="center">
-  <a href="https://github.com/JohnMartin0301">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnMartin0301&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+  <span>
+    <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank">
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" />
+    </a>
+  </span>
 
-## 🔗 Connect with Me
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:john.martin00316@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" />
-        </a>
-      </td>
-      <td>
-        <a href="https://johnmartin.netlify.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40" height="40" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <span>
+    <a href="mailto:john.martin00316@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" />
+    </a>
+  </span>
+
+  <span>
+    <a href="https://johnmartin.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40" height="40" />
+    </a>
+  </span>
 </p>
 
 ## 💬 Quote
