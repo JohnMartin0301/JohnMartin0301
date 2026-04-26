@@ -21,7 +21,9 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 
 ## 🛠️ My Tech Stack
