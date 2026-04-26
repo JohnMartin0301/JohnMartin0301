@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48" style="margin: 4px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48" style="margin: 4px; display: inline-block;" />
   </a>
 </p>
 
