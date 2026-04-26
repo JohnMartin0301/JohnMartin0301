@@ -29,12 +29,13 @@
   </a>
 </p>
 
-> ## Backend
+> ## Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask" height="48" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="48" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="48" />
 </p>
 
 > ## Tools & Platforms
@@ -57,7 +58,7 @@
 > ## Tools
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="48" height="48" style="margin: 4px;" /> </p> 
 
-> ## Other
+> ## Embedded & IoT
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" style="margin: 4px;" /> </p>
 
 <p align="center">
