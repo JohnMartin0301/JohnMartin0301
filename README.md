@@ -19,7 +19,8 @@
   <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Martin's GitHub Trophies" />
 </p>
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
