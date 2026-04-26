@@ -31,12 +31,10 @@
 
 > ## Backend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" height="48" />
-    <img src="https://skillicons.dev/icons?i=fastapi" height="48" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="48" style="vertical-align: middle;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flask" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="48" />
 </p>
 
 > ## Tools & Platforms
