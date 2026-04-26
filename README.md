@@ -45,10 +45,9 @@
 
 > ## Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48" style="margin: 4px; display: inline-block;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" height="48" style="vertical-align: middle;" />
 </p>
 
 > ## Libraries & Frameworks
