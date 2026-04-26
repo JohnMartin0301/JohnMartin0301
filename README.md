@@ -44,7 +44,11 @@
 </p>
 
 > ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
 > ## Libraries & Frameworks
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"" alt="flask" width="48" height="48" style="margin: 4px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="flask" width="48" height="48" style="margin: 4px;" /> </p>
