@@ -8,9 +8,10 @@
 </p>
 
 ## 📌 About Me
-- I'm a Computer Engineering graduate and currently an Associate Software Engineer specializing in Application & Cloud Support within Infrastructure Engineering.
-- I’m passionate about solving real-world problems through code and building efficient systems whether in software development or automation using IoT technologies like Arduino and ESP32.
-- I'm always willing to learn new technologies and expand my skill set to stay updated as technology continues to advance. I strive to contribute to impactful projects while continuously improving as a software engineer.
+- I’m a Computer Engineering graduate currently working on Windows server infrastructure and cloud environments. I build and maintain systems used in real production. I enjoy building tools and automations that reduce manual work and improve efficiency.
+- I use Python to develop tools and automate repetitive tasks, and I work with Flask and FastAPI for backend development. I also have experience building systems that connect software and hardware, including IoT projects using Arduino and ESP32.
+- I also have experience building systems that connect software and hardware, backed by my Computer Engineering background, including IoT projects using Arduino and ESP32.
+- I focus on building real-world solutions that improve system efficiency and reduce repetitive manual work.
 
 
 ## 📊 GitHub Trophies
