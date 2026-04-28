@@ -13,13 +13,6 @@
 - I use Python to develop tools and automate repetitive tasks, and I work with Flask and FastAPI for backend development. I also have experience building systems that connect software and hardware, backed by my Computer Engineering background, including IoT projects using Arduino and ESP32.
 - I focus on growing my skills in systems, cloud, and automation by building and learning through real projects.
 
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-
 ## 🛠️ My Tech Stack
 
 > ## Programming Languages & Scripting
@@ -66,6 +59,11 @@
     <a href="https://johnmartin.netlify.app/" target="_blank">
       <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40" height="40" />
     </a>
+</p>
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 💬 Quote
