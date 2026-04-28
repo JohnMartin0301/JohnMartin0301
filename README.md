@@ -14,12 +14,6 @@
 - I focus on growing my skills in systems, cloud, and automation by building and learning through real projects.
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=JohnMartin0301&theme=algolia&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
-</p>
-
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
