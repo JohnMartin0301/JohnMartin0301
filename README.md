@@ -54,10 +54,7 @@
 ## 📩 Connect with me
 
 <div align="center">
-
-| [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/john-carlo-martin-53189536b/) | [![Gmail](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg)](mailto:john.martin00316@gmail.com) | [![Website](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg)](https://johnmartin.netlify.app/) |
-|:---:|:---:|:---:|
-
+<a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:john.martin00316@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://johnmartin.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40" height="40" /></a>
 </div>
 
 ## 📊 GitHub Stats:
