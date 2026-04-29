@@ -52,13 +52,11 @@
 </p>
 
 ## 📩 Connect with me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carlo-martin-53189536b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.martin00316@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://johnmartin.netlify.app/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:john.martin00316@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://johnmartin.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" height="48" /></a>
+</p>
 
 ## 📊 GitHub Stats:
 <p align="center">
