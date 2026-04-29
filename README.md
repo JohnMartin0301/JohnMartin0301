@@ -48,7 +48,7 @@
 > ## Embedded & IoT
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/espressif.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/espressif.svg?color=ff0000" height="48" />
 </p>
 
 ## 📩 Connect with me
