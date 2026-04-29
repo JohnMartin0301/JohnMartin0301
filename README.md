@@ -54,9 +54,9 @@
 ## 📩 Connect with me
 <table align="center" border="none">
   <tr>
-    <td><a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40"></a></td>
-    <td><a href="mailto:john.martin00316@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40"></a></td>
-    <td><a href="https://johnmartin.netlify.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40"></a></td>
+    <td style="border: 1px solid transparent;"><a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40"></a></td>
+    <td style="border: 1px solid transparent;><a href="mailto:john.martin00316@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40"></a></td>
+    <td style="border: 1px solid transparent;><a href="https://johnmartin.netlify.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" width="40"></a></td>
   </tr>
 </table>
 
