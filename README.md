@@ -51,16 +51,16 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/espressif.svg" height="48" />
 </p>
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 ## 📩 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/john-carlo-martin-53189536b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" height="48" /></a>&nbsp;&nbsp;
   <a href="mailto:john.martin00316@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" height="48" /></a>&nbsp;&nbsp;
   <a href="https://johnmartin.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" height="48" /></a>
-</p>
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 💬 Quote
