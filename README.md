@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm John Martin <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="40px" width="40px"> </h1>
-<img width="2520" height="690" alt="my_github_banner" src="https://github.com/user-attachments/assets/ec90452d-aeeb-41e1-9ddc-afe3abff00e3" />
+<img width="2520" height="690" alt="my_github-header-banner" src="https://github.com/user-attachments/assets/98acd7e9-419b-463f-bfcf-990e3c80e62d" />
+
 
 <br>
 <p align="center">
