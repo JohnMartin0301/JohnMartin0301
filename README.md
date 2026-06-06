@@ -39,19 +39,6 @@
   </a>
 </p>
 
-> ## Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" height="48" style="vertical-align: middle;" />
-</p>
-
-> ## Embedded & IoT
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/espressif.svg" height="48" />
-</p>
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMartin0301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
