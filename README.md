@@ -10,9 +10,9 @@
 </p>
 
 ## 📌 About Me
-- I'm a Computer Engineering graduate working as an Associate Software Engineer focused on building and configuring Windows Server infrastructure in cloud systems. My work includes provisioning servers and virtual machines, handling system setup and updates, security remediation, and troubleshooting system issues.
-- I use Python to develop tools and automations that reduce repetitive work and improve efficiency. I also work with Flask and FastAPI for backend development, and I have experience building systems that connect software and hardware using embedded systems and IoT with Arduino and ESP32 through my Computer Engineering background.
-- I focus on growing my skills in software, automation, and infrastructure engineering by building and learning through real projects.
+- I'm a Computer Engineering graduate working as a Software Engineer in infrastructure engineering, where I build and provision Windows Server environments across enterprise systems.
+- I use Python to develop automation tools and backend applications with Flask and FastAPI. Most of my projects are focused on Python, backend development, automation, and infrastructure.
+- I enjoy building tools that simplify repetitive tasks and make everyday work easier.
 
 ## 🛠️ My Tech Stack
 
