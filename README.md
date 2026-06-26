@@ -19,7 +19,7 @@
 > ## Programming Languages & Scripting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js" />
+    <img src="https://skillicons.dev/icons?i=py,js,powershell,bash" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 > ## Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,docker,powershell,bash,postman" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,docker,postman" />
   </a>
 </p>
 
