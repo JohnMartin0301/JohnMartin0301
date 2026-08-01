@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 - I'm a Software Engineer working in infrastructure engineering where I build, provision, and configure Windows Server environments across enterprise systems.
-- I use PowerShell for automation scripting and Python to build automation tools and backend applications with Flask and FastAPI. Most of my projects are focused on Python, backend development, automation, and infrastructure.
+- I use PowerShell to automate infrastructure tasks and Python to develop automation tools and backend applications with Flask and FastAPI. My projects primarily focus on automation, backend development, and Windows Server engineering.
 - I enjoy building tools that simplify repetitive tasks and make everyday work easier.
 
 ## 🛠️ My Tech Stack
